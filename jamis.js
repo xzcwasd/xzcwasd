@@ -10,7 +10,7 @@ curcontent["Oplata"] = {
 			<input type="hidden" id="qiwi-donation-comment" name="comment" value="Автоматическое пополнение через QIWI FADE RUST Аккаунт">\
 			<input type="hidden" name="publicKey" value="48e7qUxn9T7RyYE1MVZswX1FRSbE6iyCj2gCRwwF3Dnh5XrasNTx3BGPiMsyXQFNKQhvukniQG8RTVhYm3iP6fG2fP54QnbHuVwzgLYNKseQwiNLEL1EQtFSc1b36V6KMNQp2emgxknxdRD7b48PS9LMG8Pg69ZaDD58RHCY2fakh1w1H3T4RLzHMgLGV">\
 			<input type="hidden" id="qiwi-donation-account" name="account" value="0">\
-			<input type="hidden" name="customFields[themeCode]" value="Svetlana-S-vh5ib6hm">\
+			<input type="hidden" name="customFields[themeCode]" value="ALEKSEY-GHm9pjKFDa">\
 			<input type="hidden" name="successUrl" value="https://faderust.ru">\
 			<div class="qiwi-error-box" id="qiwi-error-box"></div>\
 	</div>\
